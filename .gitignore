@@ -1,0 +1,10 @@
+/build/
+/sdk/
+*.apk
+*.apng
+*.zip
+!/animations/pirate-chase-bootanimation.zip
+*.jks
+*.keystore
+*.p12
+__pycache__/
